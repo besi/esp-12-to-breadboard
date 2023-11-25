@@ -1,0 +1,3 @@
+[submodule "lib/esp8266"]
+	path = lib/esp8266
+	url = https://github.com/besi/kicad-esp8266
